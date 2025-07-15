@@ -104,8 +104,10 @@ Feature	Description
 👩‍💼 Top Performing Employees
 
 📕 List of Expensive or Frequently Damaged Books
+
 🏁 Conclusion
 This project showcases how SQL can be leveraged to build and manage a complete Library Management System. It demonstrates skills in relational modeling, CRUD operations, analytics, automation with stored procedures, and performance reporting — essential for real-world database and data analysis roles.
+
 🧑‍💻 Author
 Anusha P
 
